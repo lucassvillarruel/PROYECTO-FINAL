@@ -1,0 +1,377 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  
+  nav {
+    background-color: #0e1d35 !important;
+  }
+  
+  body {
+    background: rgb(0, 0, 0);
+    background: linear-gradient(0deg, rgb(0, 0, 0) 0%, rgb(34, 39, 47) 65%);
+    color: whitesmoke;
+  }
+  body .banner-messi {
+    border-radius: 50%;
+  }
+  body .banner-messi-2 {
+    max-height: 1000px;
+    border-radius: 0;
+  }
+  body .container-rosario {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 0;
+  }
+  body .goat-first {
+    padding: 50px 100px;
+  }
+  body .goat-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  body .goat-container .goat-imgs {
+    height: 300px;
+    border-radius: 1rem;
+    padding: 5px;
+  }
+  body .clubes-imgs {
+    width: 300px;
+  }
+  body .card {
+    border: none;
+    text-align: center;
+    background-color: transparent !important;
+  }
+  body .card .btn-primary {
+    background-color: #0e1d35;
+    border-color: #997b0d;
+  }
+  body .card-img-top {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    margin: 0 auto;
+  }
+  body .footer {
+    padding: 20px 0;
+  }
+  body .footer a {
+    color: whitesmoke;
+    margin: 0 10px;
+    font-size: 20px;
+  }
+  body .footer a:hover {
+    color: white;
+    text-decoration: none;
+  }
+  
+  /*# sourceMappingURL=styles.css.map */
+
+  * {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  
+  nav {
+    background-color: #0e1d35 !important;
+  }
+  
+  body {
+    background: rgb(0, 0, 0);
+    background: linear-gradient(0deg, rgb(0, 0, 0) 0%, rgb(34, 39, 47) 65%);
+    color: whitesmoke;
+  }
+  body .banner-messi {
+    border-radius: 50%;
+  }
+  body .banner-messi-2 {
+    max-height: 1000px;
+    border-radius: 0;
+  }
+  body .container-rosario {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 0;
+  }
+  body .goat-first {
+    padding: 50px 100px;
+  }
+  body .goat-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  body .goat-container .goat-imgs {
+    height: 300px;
+    border-radius: 1rem;
+    padding: 5px;
+  }
+  body .clubes-imgs {
+    width: 300px;
+  }
+  body .card {
+    border: none;
+    text-align: center;
+    background-color: transparent !important;
+  }
+  body .card .btn-primary {
+    background-color: #0e1d35;
+    border-color: #997b0d;
+  }
+  body .card-img-top {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    margin: 0 auto;
+  }
+  body .footer {
+    padding: 20px 0;
+  }
+  body .footer a {
+    color: whitesmoke;
+    margin: 0 10px;
+    font-size: 20px;
+  }
+  body .footer a:hover {
+    color: white;
+    text-decoration: none;
+  }
+  
+  /*# sourceMappingURL=styles.css.map */
+
+
+  * {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  
+  nav {
+    background-color: #0e1d35 !important;
+  }
+  
+  body {
+    background: rgb(0, 0, 0);
+    background: linear-gradient(0deg, rgb(0, 0, 0) 0%, rgb(34, 39, 47) 65%);
+    color: whitesmoke;
+  }
+  body .banner-messi {
+    border-radius: 50%;
+  }
+  body .banner-messi-2 {
+    max-height: 1000px;
+    border-radius: 0;
+  }
+  body .container-rosario {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 0;
+  }
+  body .goat-first {
+    padding: 50px 100px;
+  }
+  body .goat-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  body .goat-container .goat-imgs {
+    height: 300px;
+    border-radius: 1rem;
+    padding: 5px;
+  }
+  body .clubes-imgs {
+    width: 300px;
+  }
+  body .card {
+    border: none;
+    text-align: center;
+    background-color: transparent !important;
+  }
+  body .card .btn-primary {
+    background-color: #0e1d35;
+    border-color: #997b0d;
+  }
+  body .card-img-top {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    margin: 0 auto;
+  }
+  body .footer {
+    padding: 20px 0;
+  }
+  body .footer a {
+    color: whitesmoke;
+    margin: 0 10px;
+    font-size: 20px;
+  }
+  body .footer a:hover {
+    color: white;
+    text-decoration: none;
+  }
+  
+  /*# sourceMappingURL=styles.css.map */
+
+
+  * {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  
+  nav {
+    background-color: #0e1d35 !important;
+  }
+  
+  body {
+    background: rgb(0, 0, 0);
+    background: linear-gradient(0deg, rgb(0, 0, 0) 0%, rgb(34, 39, 47) 65%);
+    color: whitesmoke;
+  }
+  body .banner-messi {
+    border-radius: 50%;
+  }
+  body .banner-messi-2 {
+    max-height: 1000px;
+    border-radius: 0;
+  }
+  body .container-rosario {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 0;
+  }
+  body .goat-first {
+    padding: 50px 100px;
+  }
+  body .goat-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  body .goat-container .goat-imgs {
+    height: 300px;
+    border-radius: 1rem;
+    padding: 5px;
+  }
+  body .clubes-imgs {
+    width: 300px;
+  }
+  body .card {
+    border: none;
+    text-align: center;
+    background-color: transparent !important;
+  }
+  body .card .btn-primary {
+    background-color: #0e1d35;
+    border-color: #997b0d;
+  }
+  body .card-img-top {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    margin: 0 auto;
+  }
+  body .footer {
+    padding: 20px 0;
+  }
+  body .footer a {
+    color: whitesmoke;
+    margin: 0 10px;
+    font-size: 20px;
+  }
+  body .footer a:hover {
+    color: white;
+    text-decoration: none;
+  }
+  
+  /*# sourceMappingURL=styles.css.map */
+
+
+  * {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  
+  nav {
+    background-color: #0e1d35 !important;
+  }
+  
+  body {
+    background: rgb(0, 0, 0);
+    background: linear-gradient(0deg, rgb(0, 0, 0) 0%, rgb(34, 39, 47) 65%);
+    color: whitesmoke;
+  }
+  body .banner-messi {
+    border-radius: 50%;
+  }
+  body .banner-messi-2 {
+    max-height: 1000px;
+    border-radius: 0;
+  }
+  body .container-rosario {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 0;
+  }
+  body .goat-first {
+    padding: 50px 100px;
+  }
+  body .goat-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  body .goat-container .goat-imgs {
+    height: 300px;
+    border-radius: 1rem;
+    padding: 5px;
+  }
+  body .clubes-imgs {
+    width: 300px;
+  }
+  body .card {
+    border: none;
+    text-align: center;
+    background-color: transparent !important;
+  }
+  body .card .btn-primary {
+    background-color: #0e1d35;
+    border-color: #997b0d;
+  }
+  body .card-img-top {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    margin: 0 auto;
+  }
+  body .footer {
+    padding: 20px 0;
+  }
+  body .footer a {
+    color: whitesmoke;
+    margin: 0 10px;
+    font-size: 20px;
+  }
+  body .footer a:hover {
+    color: white;
+    text-decoration: none;
+  }
+  
+  /*# sourceMappingURL=styles.css.map */
